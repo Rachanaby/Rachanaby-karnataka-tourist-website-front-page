@@ -1,0 +1,1503 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+#AA{
+    /* border: 2px solid black; */
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content:;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+}
+#AA2{
+    /* border: 2px solid black; */
+    height: 21px;
+    width:91px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    left:90px;
+    
+}
+#aa11{
+    /* border: 2px solid black; */
+    height: 20px;
+    width: 22px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+}
+#aa11:hover{
+    background-color: blue;
+}
+#aa12{
+    /* border: 2px solid black; */
+    height: 20px;
+    width:180px;
+    position: relative;
+    color: hwb(0 97% 2%);
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+#aa12:hover{
+    background-color: blue;
+}
+#AA3{
+    /* border: 2px solid black; */
+    height: 23px;
+    width:177px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    left:110px;
+}
+#aa21{
+    /* border: 2px solid black; */
+    height: 20px;
+    width: 20px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+}
+#aa22{
+    /* border: 2px solid black; */
+    height: 20px;
+    width:227px;
+    position: relative;
+    color: hwb(0 97% 2%);
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+#AA4{
+    /* border: 2px solid black; */
+    height: 21px;
+    width:123px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    left:129px;
+}
+#aa31{
+    /* border: 2px solid black; */
+    height: 20px;
+    width: 20px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+}
+#aa32{
+    /* border: 2px solid black; */
+    height: 20px;
+    width:160px;
+    position: relative;
+    color: hwb(0 97% 2%);
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.max{
+    font-size: 12px;
+}
+
+
+
+#AA5{
+    /* border: 2px solid black; */
+    height:29px;
+    width:285px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    left:800px;
+}
+#aa41{
+    /* border: 2px solid black; */
+    height:27px;
+    width:15px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left:-42px;
+    align-items: center;
+    justify-content: center;
+}
+#aa42{
+    /* border: 2px solid black; */
+    height:27px;
+    width: 15px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: -32px;
+    align-items: center;
+    justify-content: center;
+}
+#aa43{
+    /* border: 2px solid black; */
+    height:27px;
+    width: 15px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: -21px;
+    align-items: center;
+    justify-content: center;
+}
+#aa44{
+    /* border: 2px solid black; */
+    height:27px;
+    width: 15px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: -11px;
+    align-items: center;
+    justify-content: center;
+}
+#aa45{
+    /* border: 2px solid black; */
+    height: 27px;
+    width: 15px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+}
+#aa46{
+    /* border: 2px solid black; */
+    height:27px;
+    width:90px;
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: 0px;
+    left: 41px;
+    align-items: center;
+    justify-content: center;
+}
+.max{
+    font-size: 12px;
+}
+.max:hover{
+    color:blue;
+}
+#AA6{
+    /* border: 2px solid rgb(63, 11, 196); */
+    height:115px;
+    width:100%px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:0px;
+    left:0px;
+
+}
+img{
+    /* border: 2px solid black; */
+    /* height:100%;
+    width:; */
+    color: hwb(0 97% 2%);
+    position: relative;
+    display: flex;
+    top: -77px;
+    left:-600px;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+#AA7{
+    border: 2px solid black;
+    height:700px;
+    width: 100%;
+    background-image: url(./Vidah-Sauda-state-legislature-building-Karnataka-Bengaluru.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    position: relative;
+
+}
+
+#AA21{
+    /* border: 2px solid black; */
+    height:200px;
+    width:100%;
+    display: flex;
+    position:absolute;
+    left:0px;
+    align-items: center;
+    color: #100f0f;
+
+}
+
+#AA22{
+    /* border: 2px solid black; */
+    height:180px;
+    width:100%;
+    display: flex;
+    position:absolute;
+    left:0px;
+    align-items: center;
+    color: #100f0f;
+
+
+
+
+
+
+
+}
+/* #dd1{
+    border: 2px solid black;
+    height:55px;
+    width:90px;
+    display: flex;
+    position:relative;
+    top:-35px;
+    left:200px
+} */
+#qq1{
+    /* border: 2px solid black; */
+    height:20px;
+    width:76px;
+    color: white;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    font-size:18px;
+   top:-68px;
+   left:324px;
+
+}
+#qq1:hover{
+    color:gray;
+    
+}
+.child:hover{
+    color:rgb(147, 147, 148);
+}
+
+/* #dd2{
+    border: 2px solid black;
+    height:55px;
+    width:90px;
+    display: flex;
+    position:relative;
+    top:-35px;
+    left:200px
+} */
+#qq2{
+    /* border: 2px solid black; */
+    height:20px;
+    width:76px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    font-size:18px;
+   top: -68px;
+   left:342px;
+   color: white;
+
+}
+#qq2:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd3{
+    border: 2px solid black;
+    height:55px;
+    width:90px;
+    display: flex;
+    position:relative;
+    top:-35px;
+    left:200px
+} */
+#qq3{
+    /* border: 2px solid black; */
+    height:20px;
+    width:76px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    font-size:18px;
+   top: -68px;
+   left:375px;
+   color: white;
+}
+#qq3:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd4{
+    border: 2px solid black;
+    height:55px;
+    width:200px;
+    display: flex;
+    position:relative;
+    top:-35px;
+    left:200px
+} */
+#qq4{
+    /* border: 2px solid black; */
+    height:36px;
+    width:200px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    font-size:18px;
+   top:-75px;
+   left:395px;
+   color: white;
+
+}
+#qq4:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd5{
+    border: 2px solid black;
+    height:53px;
+    width:110px;
+    display: flex;
+    position:relative;
+    top:-35px;
+    left:200px;
+} */
+#qq5{
+    /* border: 2px solid black; */
+     height:21px;
+     width: 100px;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+    top:-68px;
+    left:400px;
+    font-size:18px;
+    color: white;
+     
+}
+#qq5:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd6{
+    border: 2px solid black;
+    height:53px;
+    width:50px;
+    display: flex;
+    position:relative;
+    top:-35px;
+    left:200px;
+    
+} */
+#qq6{
+     /* border: 2px solid black; */
+     height:21px;
+     width: 40px;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+    top:-68px;
+    left:420px;
+    font-size:18px;
+    color: white;
+
+}
+#qq6:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd7{
+    border: 2px solid black;
+    height:66px;
+    width:167px;
+    display: flex;
+    position:relative;
+    top: -30px;
+    left:200px;
+} */
+#qq7{
+     /* border: 2px solid black; */
+     height:36px;
+     width:167px;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+    top:-68px;
+    left:430px;
+    font-size:18px;
+    color: white;
+
+}
+#qq7:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd8{
+    border: 2px solid black;
+    height:40px;
+    width:45px;
+    display: flex;
+    position:relative;
+    top:-66px;
+    left:191px;
+} */
+#qq8{
+    /* border: 2px solid black; */
+     height:40px;
+     width:45px;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+     font-size:100px;
+    top:-69px;
+    left:440px;
+    font-size:18px;
+    color: white;
+     
+
+}
+#qq8:hover{
+    color: rgb(73, 73, 79);
+}
+/* #dd10{
+    border: 2px solid black;
+    height:140px;
+    width: 400px;
+    display:flex;
+    position: relative;
+    top: 116px;
+    left: 131px;
+    
+
+} */
+
+
+
+/* #dd9{
+    border: 2px solid black;
+    height:120px;
+    width:120px;
+    display: flex;
+    position:relative;
+    top:-11px;
+    left:300px;
+}
+#qq9{
+    border: 2px solid black;
+     height:100px;
+     width:100px;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+    top:6px;
+    left:6px;
+     
+
+}
+#kk{
+    border: 2px solid black;
+     height:100px;
+     width:100px;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+    top:6px;
+    left:6px;
+     
+
+} */
+
+.my-element:hover{
+    color:black;
+}
+
+#AA8{
+    /* border:2px solid black; */
+    width:100%;
+    height:60px;
+    text-align:center;
+    justify-content: center;
+    color: aliceblue;
+    align-items: center;
+    position: relative;
+    left: 0px;
+    top:570px;
+    background-color: red;
+}
+#AA9{
+    border: 2px solid black;
+    height:300px;
+    width: 100%;
+    position: relative;
+    background-image: url(./cauvey-krUD--621x414@LiveMint.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity:100%;
+}
+#AA10{
+    /* border: 2px solid black; */
+    height:70px;
+    width:700px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 39px;
+    left:363px;
+   
+}
+
+#mm1{
+    /* border: 2px solid black; */
+    width:380px;
+    height:50px;
+    text-align:center;
+    justify-content: center;
+    color: rgb(28, 25, 25);
+    align-items: center;
+    position: relative;
+    top:3px;
+    left:524px;
+    font-size:40px;
+    font-family: Playfair 'Playfair Display';
+}
+#mm2{
+    /* border: 2px solid black; */
+    width:523px;
+    height:32px;
+    text-align:center;
+    justify-content: center;
+    color: rgb(15, 14, 14);
+    align-items: center;
+    position: relative;
+    font-family: Playfair 'Playfair Display';
+    top:20px;
+    left:450px;
+    font-size:25px;
+}
+#mm3{
+    /* border: 2px solid black;
+    width:523px;
+    height:32px; */
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    color: rgb(15, 14, 14);
+    align-items: center;
+    position: relative;
+    font-family: Playfair 'Playfair Display';
+    top:25px;
+    left:-172px;
+    font-size:12px;
+    font-weight: bold;
+
+}
+#mm4{
+    /* border: 2px solid black;
+    width:523px;
+    height:32px; */
+    text-align:center;
+    justify-content: center;
+    display: flex;
+    color: rgb(15, 14, 14);
+    align-items: center;
+    position: relative;
+    font-family: Playfair 'Playfair Display';
+    top:6px;
+    left:-103px;
+    font-size:12px;
+    font-weight: bold;
+}
+#mm5{
+    /* border: 2px solid black;
+    width:523px;
+    height:32px; */
+    text-align:center;
+    justify-content: center;
+    color: rgb(15, 14, 14);
+    align-items: center;
+    position: relative;
+    display: flex;
+    font-family: Playfair 'Playfair Display';
+    top:-13px;
+    left:-30px;
+    font-size:12px;
+    font-weight: bold;
+}
+#mm6{
+    /* border: 2px solid black;
+    width:523px;
+    height:32px; */
+    text-align:center;
+    justify-content: center;
+    color: rgb(15, 14, 14);
+    align-items: center;
+    display: flex;
+    position: relative;
+    font-family: Playfair 'Playfair Display';
+    top:-32px;
+    left:40px;
+    font-size:12px;
+    font-weight: bold;
+}
+#mm7{
+    /* border: 2px solid black;
+    width:523px;
+    height:32px; */
+    text-align:center;
+    justify-content: center;
+    color: rgb(15, 14, 14);
+    align-items: center;
+    position: relative;
+    font-family: Playfair 'Playfair Display';
+    top:-51px;
+    left:102px;
+    font-size:12px;
+    display: flex;
+    font-weight: bold;
+}
+#nm8{
+    /* border: 2px solid black; */
+    height:46px;
+    width:400px;
+    position: relative;
+    display: flex;
+    top: -35px;
+    left: -12px;
+}
+#nm8:hover{
+    border-color: rgb(250, 250, 255);
+}
+/* .biginup{
+    box-sizing: border-box;
+    width:100%;
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-style: italic;
+    margin-bottom: 25px;
+    height: 45px
+} */
+
+#nm9{
+    border: 2px solid red;
+    height: 36px;
+    width: 92px;
+    position: relative;
+    left: 8px;
+    top: 10px;
+    color: #fff;
+    background-color: red;
+    display: flex;
+    text-align:center;
+    justify-content:center;
+    align-items:center;
+}
+#nm9:hover{
+    background-color: #fff;
+    color: red;
+}
+#AA11{
+    /* border: 2px solid black; */
+    height:900px;                                  
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity:50px;
+    background-image: url(./kod2.jpg);
+}
+#ss1{
+    /* border: 2px solid black; */
+    font-size:40px;
+    height:50px;
+    width: 100%;
+    position: relative;
+    top:30px;
+    left: 0px;
+    justify-content: center;
+     text-align: center;
+     align-items: center;
+     color:rgb(17, 17, 17);
+}
+#x1{
+    /* border: 2px solid black; */
+    height:800px;
+    width: 100%;
+    position: relative;
+    top:30px;
+    left:0px;
+    display:flex;
+    
+}
+#x2{
+    /* border: 2px solid black; */
+    height: 800px;
+    width: 1000px;
+}
+#x31{
+    /* border:2px solid black; */
+    font-size:35px;
+    height:100px;
+    width:360px;
+    display: flex;
+    position:relative;
+    top:100px;
+    left:110px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    font-family:  Montserrat,sans-serif;
+    color: white;
+
+}
+#x32{
+    /* border:2px solid black; */
+    font-size:15px;
+    height:60px;
+    width:500px;
+    display: flex;
+    position:relative;
+    top:130px;
+    left:110px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    font-family:  Montserrat,sans-serif;
+    color: white;
+
+}
+#x33{
+    /* border:2px solid black; */
+    font-size:14px;
+    height:35px;
+    width:120px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:150px;
+    left:110px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    font-family:  Montserrat,sans-serif;
+    background-color:red;
+    color: white;
+
+
+}
+#x33:hover{
+    background-color:gray;
+}
+
+#x34{
+    /* border:2px solid black; */
+    font-size:14px;
+    height:200px;
+    width:300px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:180px;
+    left:110px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Bengalurur-urban-city.jpg);
+    color: white;
+    
+}
+#x35{
+    /* border:2px solid black; */
+    font-size:14px;
+    height:200px;
+    width:300px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-23px;
+    left:446px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./th\ \(2\).jpg);
+    
+}
+#x3{
+    /* border: 2px solid black; */
+    height: 800px;
+    width:1000px;
+    background-image: url(.);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#AA12{
+    /* border: 2px solid black; */
+    height:800px ;
+    width:100%;
+}
+#v1{
+    /* border: 2px solid black; */
+    font-size:40px;
+    height:50px;
+    width: 100%;
+    position: relative;
+    top:60px;
+    left: 0px;
+    justify-content: center;
+     text-align: center;
+     align-items: center;
+     color:rgb(17, 17, 17);
+}
+#v2{
+    /* border: 2px solid black; */
+    font-size: 20px;
+    font-family: 'PLAYFAIR DISPLAY';
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    left: 0px;
+    color: #e8260c!important;
+}
+#v2:hover{
+    background-color: blue;
+}
+#v3{
+    /* border: 2px solid black; */
+    height:550px;
+    width:100%;
+    display: flex;
+    position: relative;
+    top:122px;
+    left: 0px;
+}
+#mn11{
+    /* border: 2px solid black; */
+    height:550px;
+    width: 500px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size:40px;
+    font-family: inherit;
+    color: white;
+    top:-431px;
+    left:0px;
+    background-image: url(./Jog-Falls-Shimoga-Tranquality-1.jpg);
+    
+
+}
+#mn11:hover{
+    color: red;
+    opacity: 80%;
+}
+#mn12{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:260px;
+    width:250px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-984px;
+    left:507px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./th\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn12:hover{
+    color: red;
+    opacity: 20px;
+}
+#mn13{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:275px;
+    width:250px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-975px;
+    left:507px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Grandeur_Mysore-Palace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn13:hover{
+    color: red;
+    opacity:40px;
+}
+#mn14{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:260px;
+    width:250px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-1520px;
+    left:765px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Heritage_Chitradurga-Fort.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn14:hover{
+    color: red;
+    opacity:40px;
+}
+#mn15{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:275px;
+    width:250px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-1509px;
+    left:765px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Cusini-Ragi-Mudde.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn15:hover{
+    color: red;
+    opacity:40px;
+}
+#mn16{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:550px;
+    width:250px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-2055px;
+    left:1025px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Spiritulity-400x608-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn16:hover{
+    color: red;
+    opacity:40px;
+}
+#mn17{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:250px;
+    width:235px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-2606px;
+    left:1280px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Festibval-kabala.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn17:hover{
+    color: red;
+    opacity:40px;
+}
+#mn18{
+    /* border:2px solid black; */
+    font-size:40px;
+    height:285px;
+    width:235px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-2590px;
+    left:1280px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./The-wild.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mn18:hover{
+    color: red;
+    opacity:40px;
+}
+#AA13{
+    /* border: 2px solid black; */
+    height:500px;
+    width:100%;
+    /* display: flex; */
+
+}
+#nm21{
+    /* border: 2px solid black; */
+    height:36px;
+    width:100%;
+    position: relative;
+    top:30px;
+    left:0px;
+    font-family: Montserrat,sans-serif;
+    font-size:35px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+
+}
+#nm22{
+    /* border: 2px solid black; */
+    height:30px;
+    width:100%;
+    position:relative;
+    top:40px;
+    left:0px;
+    font-family: Montserrat,sans-serif;
+    font-size:15px;
+    font-style:italic;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#f1380e!important ;
+
+
+}
+#nm23{
+    /* border: 2px solid black; */
+    height:367px;
+    width: 100%;
+    position: relative;
+    top:60px;
+    left:0px;
+    display: flex;
+
+
+}
+
+#nm24{
+    /* border:2px solid black; */
+    height:367px;
+    width:400px;
+    background-image:url(./maharaja-s-palace-at-night-in-mysore-karnataka-india-BCYNJG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:40px;
+    font-family:Montserrat,sans-serif;
+    display: flex;
+    color: white;
+}
+#nm24:hover{
+    color: blue;
+}
+#nm25{
+    /* border:2px solid black; */
+    height:367px;
+    width:400px;
+    background-image:url(./1572508610_img_078b2603cac0ccbb3972d3ba3578fbd6_1520225290788_original.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:40px;
+    font-family:Montserrat,sans-serif;
+    display: flex;
+    color: white;
+}
+#nm26{
+    /* border:2px solid black; */
+    height:367px;
+    width:400px;
+    background-image:url(./th\ \(11\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:40px;
+    font-family:Montserrat,sans-serif;
+    display: flex;
+    color:white;
+}
+#nm27{
+    /* border:2px solid black; */
+    height:367px;
+    width:400px;
+    background-image:url(./th\ \(9\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:40px;
+    font-family:Montserrat,sans-serif;
+    display: flex;
+    color: white;
+    
+}
+#nm25:hover{
+    color: blue;
+}
+#nm26:hover{
+    color: blue;
+}
+#nm27:hover{
+    color: blue;
+}
+#AA14{
+    /* border: 2px solid black; */
+    height:600px;
+    width:100%;
+    /* display: flex; */
+
+}
+#jk1{
+    /* border: 2px solid black; */
+    height:36px;
+    width:100%;
+    position: relative;
+    top:30px;
+    left:0px;
+    font-family: Montserrat,sans-serif;
+    font-size:35px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#jk2{
+    /* border: 2px solid black; */
+    height:30px;
+    width:100%;
+    position:relative;
+    top:40px;
+    left:0px;
+    font-family: Montserrat,sans-serif;
+    font-size:25px;
+    font-style:italic;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#df4d18!important ;
+
+}
+#jk3{
+    /* border: 2px solid black; */
+    height:550px;
+    width:100%;
+    position: relative;
+    top:70px;
+    left:0px;
+}
+#mn21{
+    /* border:2px solid black; */
+    box-shadow:2px 2px 2px 4px rgba(red, green, blue, alpha);
+    font-size:14px;
+    height:230px;
+    width:300px;
+    position:relative;
+    color: #fff;
+    top:0px;
+    left:0px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./mangalore-beach.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+
+}
+#mn22{
+    /* border:2px solid black; */
+    box-shadow:2px 2px 2px 4px rgba(red, green, blue, alpha);
+    font-size:14px;
+    height:230px;
+    width:300px;
+    position:relative;
+    color: #fff;
+    top:-235px;
+    left:310px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Mysore-Dasara.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+
+}
+#mn23{
+    /* border:2px solid black; */
+    box-shadow:2px 2px 2px 4px rgba(red, green, blue, alpha);
+    font-size:14px;
+    height:230px;
+    width:300px;
+    position:relative;
+    color: #fff;
+    display: flex;
+    top:-230px;
+    left:0px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Kannada-dance.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+
+}
+#mn24{
+    /* border:2px solid black; */
+    box-shadow:2px 2px 2px 4px rgba(red, green, blue, alpha);
+    font-size:14px;
+    height:230px;
+    width:300px;
+    display: flex;
+    position:relative;
+    color: #fff;
+    top:-464px;
+    left:310px;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Barachukki-Falls-at-Shivanasamudram.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+#mn25{
+    /* border: 2px solid black; */
+    height:465px;
+    width:500px;
+    position:relative;
+    top: -927px;
+    left:618px;
+    align-items: center;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Ulsoor-lake-3.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#mn26{
+    /* border: 2px solid black; */
+    height:225px;
+    width:390px;
+    position:relative;
+    top:-1390px;
+    left:1125px;
+    align-items: center;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Bhootanatha-Badami.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#mn27{
+    /* border: 2px solid black; */
+    height:225px;
+    width:390px;
+    position:relative;
+    top:-1378px;
+    left:1125px;
+    align-items: center;
+    text-align:left;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Ibrahim-Roza.jpg);
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#mn28{
+    /* border: 2px solid black; */
+    height:25px;
+    width:70px;
+    position:relative;
+    top:-1337px;
+    left:680px;
+    align-items: center;
+    text-align:center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    
+}
+#mn28:hover{
+    background-color: blue;
+
+}
+#AA15{
+    /* border: 2px solid black; */
+    height:400px;
+    width:100%;
+    /* display: flex; */
+    position:relative;
+    top:70px;
+    left:0px;
+   
+}
+#mn31{
+    /* border: 2px solid black; */
+    height:36px;
+    width:100%;
+    position: relative;
+    top:70px;
+    left:0px;
+    font-family: Montserrat,sans-serif;
+    font-size:35px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+#mn32{
+    /* border: 2px solid black; */
+    height:30px;
+    width:100%;
+    position:relative;
+    top:80px;
+    left:0px;
+    font-family: Montserrat,sans-serif;
+    font-size:25px;
+    font-style:italic;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#d24414!important ;
+}
+
+#mn33{
+    /* border: 2px solid black; */
+    height:100px;
+    width:100px;
+    position:relative;
+    top:199px;
+    left:500px;
+    font-size:90px;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#0944a3!important ;
+}
+#mn34{
+    /* border: 2px solid black; */
+    height:100px;
+    width:100px;
+    position:relative;
+    top:95px;
+    left:650px;
+    font-size:90px;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#d71515!important ;
+}
+#mn35{
+    /* border: 2px solid black; */
+    height:100px;
+    width:100px;
+    position:relative;
+    top:-6px;
+    left:800px;
+    font-size:90px;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#1099cb!important ;
+}
+#mn36{
+    /* border: 2px solid black; */
+    height:100px;
+    width:100px;
+    position:relative;
+    top:-109px;
+    left:950px;
+    font-size:90px;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#a11a64!important ;
+}
